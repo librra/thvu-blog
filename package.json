@@ -25,6 +25,7 @@
     "@notionhq/client": "^0.3.2",
     "@prisma/client": "3.1.1",
     "@sentry/nextjs": "6.14.1",
+    "@sentry/webpack-plugin": "1.18.3",
     "@sentry/cli": "1.71.0",
     "@tailwindcss/forms": "^0.3.2",
     "@tailwindcss/typography": "^0.4.0",
